@@ -1,0 +1,11 @@
+﻿  adList.c
+C:\Users\82102\source\repos\자구과제 8\자구과제 8_2\adList.c(30,21): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\82102\source\repos\자구과제 8\자구과제 8_2\adList.c(30,46): warning C4312: '형식 캐스트': 'int'에서 더 큰 'graphNode *'(으)로의 변환입니다.
+  ex8_2.c
+C:\Users\82102\source\repos\자구과제 8\자구과제 8_2\ex8_2.c(6,30): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\82102\source\repos\자구과제 8\자구과제 8_2\ex8_2.c(6,55): warning C4312: '형식 캐스트': 'int'에서 더 큰 'graphType *'(으)로의 변환입니다.
+C:\Users\82102\source\repos\자구과제 8\자구과제 8_2\ex8_2.c(7,55): warning C4312: '형식 캐스트': 'int'에서 더 큰 'graphType *'(으)로의 변환입니다.
+C:\Users\82102\source\repos\자구과제 8\자구과제 8_2\ex8_2.c(8,55): warning C4312: '형식 캐스트': 'int'에서 더 큰 'graphType *'(으)로의 변환입니다.
+C:\Users\82102\source\repos\자구과제 8\자구과제 8_2\ex8_2.c(9,55): warning C4312: '형식 캐스트': 'int'에서 더 큰 'graphType *'(으)로의 변환입니다.
+  코드를 생성하고 있습니다...
+  자구과제 8_2.vcxproj -> C:\Users\82102\source\repos\자구과제 8\x64\Debug\자구과제 8_2.exe
